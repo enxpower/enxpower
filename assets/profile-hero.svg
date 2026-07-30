@@ -1,0 +1,43 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Gong Tiejing — Founder and Systems Architect</title>
+  <desc id="desc">Gong Tiejing personal visual identity in graphite, copper, paper and cool silver.</desc>
+  <defs>
+    <linearGradient id="heroCopper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#C77B45"/>
+      <stop offset="0.5" stop-color="#A8602F"/>
+      <stop offset="1" stop-color="#8A4A23"/>
+    </linearGradient>
+    <path id="heroSealText" d="M 200,200 m -148,0 a 148,148 0 1 1 296,0"/>
+  </defs>
+
+  <rect width="1200" height="360" rx="24" fill="#1C2024"/>
+  <rect x="1" y="1" width="1198" height="358" rx="23" stroke="#2A2F35" stroke-width="2"/>
+
+  <g transform="translate(18,-2) scale(0.88)">
+    <circle cx="200" cy="200" r="190" stroke="url(#heroCopper)" stroke-width="2"/>
+    <circle cx="200" cy="200" r="178" stroke="url(#heroCopper)" stroke-width="6"/>
+    <text font-family="'Spectral','Georgia',serif" font-size="29" letter-spacing="9" fill="url(#heroCopper)" text-anchor="middle">
+      <textPath href="#heroSealText" startOffset="50%">GONG TIEJING</textPath>
+    </text>
+    <g fill="url(#heroCopper)">
+      <circle cx="200" cy="384" r="4.5"/>
+      <circle cx="146" cy="377" r="4.5"/>
+      <circle cx="254" cy="377" r="4.5"/>
+    </g>
+    <g transform="translate(200,202)">
+      <path d="M 70,-52 A 92,92 0 1 0 78,52" stroke="url(#heroCopper)" stroke-width="24" stroke-linecap="round"/>
+      <path d="M 84,12 L 28,12" stroke="url(#heroCopper)" stroke-width="24" stroke-linecap="round"/>
+      <path d="M 56,-18 L 56,42" stroke="url(#heroCopper)" stroke-width="15" stroke-linecap="round"/>
+      <circle cx="56" cy="12" r="14" fill="#1C2024"/>
+      <circle cx="56" cy="12" r="14" stroke="url(#heroCopper)" stroke-width="3.5"/>
+      <circle cx="56" cy="12" r="4.5" fill="url(#heroCopper)"/>
+    </g>
+  </g>
+
+  <text x="410" y="112" fill="#FDFCFA" font-family="'Spectral','Georgia',serif" font-size="58" font-weight="500" letter-spacing="0.5">Gong Tiejing</text>
+  <text x="414" y="157" fill="#9AA3AB" font-family="'IBM Plex Mono','Courier New',monospace" font-size="18" font-weight="500" letter-spacing="3.4">FOUNDER &amp; SYSTEMS ARCHITECT</text>
+  <line x1="414" y1="193" x2="1114" y2="193" stroke="#A8602F" stroke-width="2"/>
+  <text x="414" y="236" fill="#C2C9CF" font-family="'Inter','Arial',sans-serif" font-size="22" font-weight="400">AGI&amp;M · EnergizeOS · ARCBOS</text>
+  <text x="414" y="278" fill="#9AA3AB" font-family="'IBM Plex Mono','Courier New',monospace" font-size="15" letter-spacing="2.2">VANCOUVER, CANADA</text>
+  <text x="1114" y="316" fill="#A8602F" text-anchor="end" font-family="'IBM Plex Mono','Courier New',monospace" font-size="13" letter-spacing="1.8">IRON THAT HOLDS STEADY UNDER LOAD.</text>
+</svg>
