@@ -67,5 +67,3 @@ I am currently advancing practical software and hardware systems for **BMS, EMS,
   &nbsp;·&nbsp;
   Vancouver, Canada
 </p>
-
-<p align="center"><sub>铁 · 靖 — iron that holds steady under load.</sub></p>
